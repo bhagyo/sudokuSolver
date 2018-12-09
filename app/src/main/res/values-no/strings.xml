@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android-Sudoku</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="norwegian_description">একটি বাংলাদেশের পতাকা</string>
+    <string name="british_description">একটি ইংরেজদের পতাকা</string>
+
+    <string name="new_game">নতুন গেম শুরু হচ্ছে</string>
+    <string name="add_new_board">নতুন বোর্ড যোগ</string>
+    <string name="continue_new_board">চলমান</string>
+    <string name="successful_new_board">বোর্ড সংরক্ষিত হয়েছে</string>
+    <string name="fail_new_board">বোর্ড সংরক্ষণে অক্ষম</string>
+    <string name="show_instructions">নিয়মাবলি প্রদর্শন</string>
+    <string name="choose_language">ভাষা নির্বাচন</string>
+
+    <string name="instructions">নিয়মাবলি</string>
+    <string name="instructions_1">১. সুডোকু একটি চীন দেশের সংখ্যার ধাঁধাঁ। এখানে ৯*৯ আকারের টেবিল দেয়া হয়। প্রাথমিকভাবে কিছু সংখ্যা (১-৯) আগে থেকেই দেয়া থাকে। সেসবের উপর ভিত্তি করে সমাধান করতে হয়। </string>
+    <string name="instructions_2">২. টেবিলটি ৯*৯ আকারের হলেও একই সাথে এটিকে ৩*৩ আকারের ছোট ছোট ব্লকে ভাগ করা হয়েছে।যা খেলাটিকে আরো সুন্দর ও মজার করে তুলেছে।</string>
+    <string name="instructions_3">৩. খেয়াল রাখতে হবে সারি এবং কলামে ১ থেকে ৯ অংকটি শুধুমাত্র একনার থাকে। একই নিয়ম বলবত থাকবে ৩*৩ সাইজের ব্লকের জন্যেও।</string>
+    <string name="go_back_button">পিছনে</string>
+
+    <string name="choose_difficulty">মুশকিলতার ধাপ:</string>
+    <string name="difficulty_easy">সহজ</string>
+    <string name="difficulty_normal">মধ্যম</string>
+    <string name="difficulty_hard">কঠিন</string>
+    <string name="start_game">খেলা শুরু</string>
+    <string name="choose_number">সংখ্যা নির্বাচন</string>
+    <string name="choose_a_number">স্থাপনের জন্যে সংখ্যা নির্বাচন:</string>
+    <string name="place_number">সংখ্যার স্থাপন</string>
+    <string name="piece_unsure">সখ্যাটি অনিশ্চিত হিসেবে নির্বাচন</string>
+    <string name="remove_piece">মুছুন</string>
+    <string name="start_piece_error">শুরুর যেকোন কিছুই স্থাবর</string>
+    <string name="check_board">পরীক্ষা করুন</string>
+    <string name="board_correct">বোর্ডটি সঠিক!! অভিনন্দন</string>
+    <string name="board_incorrect">দুঃখিত! বোর্ডটি সঠিক নয়</string>
+</resources>
